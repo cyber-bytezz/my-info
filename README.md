@@ -15,5 +15,4 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=cyber-bytezz&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@mello_abc)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+ 
